@@ -2,6 +2,8 @@
 
 Author: Blessing Itoro Bassey, Kolawole Tajudeen
 
+This is neural Machine Translation of English to Efik language.
+
 ## Data
 
 	- The JW300 Efik - English
